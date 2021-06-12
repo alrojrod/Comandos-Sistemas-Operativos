@@ -1,0 +1,28 @@
+Semana 2: 
+clear
+  Command used to clear the terminal screen  
+sudo apt install "INSERT APP NAME"
+  Syntax use to install a packet when the its name is already known
+  Example: sudo apt install build-essential
+sudo apt search
+  Syntax use to search available packages
+
+lsb_release 
+  To obtain information about the Linux distribution
+  Example: 
+  lsb_releasea: to show all information
+
+uname
+   To obtain kernel information and processor information
+   Example: 
+   uname -a: to show all information
+
+mkdir "INSERT NAME"
+  Use to create or make new diorectories
+  Example
+  mkdir Documents
+
+ls
+  Listing about files in current directory
+  Example:
+  ls -l: to show more information
